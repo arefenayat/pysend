@@ -1,6 +1,6 @@
 # pysend
 <br>send data to server by POST and GET method's
-<br> # usage:
+<br>usage:
 <br>after run asli.py you need to enter your file (php , asp or etc...) url address with HTTP 
 <br>example : http://127.0.0.1/test/main.php
 <br>Notice : Not need to use " ? " character for GET files . 
